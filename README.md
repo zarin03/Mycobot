@@ -3,7 +3,7 @@
 This repository contains the URDF and simulation files for the MyCobot robotic arm. 
 
 ## 🎥 Project Preview
-![Robot Screenshot](./docs/media/robot_view.png)
+![Robot Screenshot](./docs/media/Robot_view.png)
 
 *Watch the full demo video in the docs folder!*
 
